@@ -1,4 +1,4 @@
-module github.com/SebastiaanKlippert/go-wkhtmltopdf
+module github.com/Allen-Career-Institute/htmltopdf
 
 go 1.19
 
